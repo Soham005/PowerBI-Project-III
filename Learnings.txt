@@ -1,0 +1,2 @@
+1. Data Profiling
+2. Size & Positioning of Slicers
